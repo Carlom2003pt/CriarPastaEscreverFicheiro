@@ -1,0 +1,24 @@
+C:\Users\Samsung\source\repos\Experimento1\Experimento1\bin\Debug\netcoreapp3.1\Experimento1.exe
+C:\Users\Samsung\source\repos\Experimento1\Experimento1\bin\Debug\netcoreapp3.1\Experimento1.deps.json
+C:\Users\Samsung\source\repos\Experimento1\Experimento1\bin\Debug\netcoreapp3.1\Experimento1.runtimeconfig.json
+C:\Users\Samsung\source\repos\Experimento1\Experimento1\bin\Debug\netcoreapp3.1\Experimento1.runtimeconfig.dev.json
+C:\Users\Samsung\source\repos\Experimento1\Experimento1\bin\Debug\netcoreapp3.1\Experimento1.dll
+C:\Users\Samsung\source\repos\Experimento1\Experimento1\bin\Debug\netcoreapp3.1\Experimento1.pdb
+C:\Users\Samsung\source\repos\Experimento1\Experimento1\obj\Debug\netcoreapp3.1\Experimento1.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Experimento1\Experimento1\obj\Debug\netcoreapp3.1\Experimento1.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\Experimento1\Experimento1\obj\Debug\netcoreapp3.1\Experimento1.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\Experimento1\Experimento1\obj\Debug\netcoreapp3.1\Experimento1.dll
+C:\Users\Samsung\source\repos\Experimento1\Experimento1\obj\Debug\netcoreapp3.1\Experimento1.pdb
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\bin\Debug\netcoreapp3.1\Experimento1.exe
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\bin\Debug\netcoreapp3.1\Experimento1.deps.json
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\bin\Debug\netcoreapp3.1\Experimento1.runtimeconfig.json
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\bin\Debug\netcoreapp3.1\Experimento1.runtimeconfig.dev.json
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\bin\Debug\netcoreapp3.1\Experimento1.dll
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\bin\Debug\netcoreapp3.1\Experimento1.pdb
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\obj\Debug\netcoreapp3.1\Experimento1.csproj.AssemblyReference.cache
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\obj\Debug\netcoreapp3.1\Experimento1.AssemblyInfoInputs.cache
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\obj\Debug\netcoreapp3.1\Experimento1.AssemblyInfo.cs
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\obj\Debug\netcoreapp3.1\Experimento1.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\obj\Debug\netcoreapp3.1\Experimento1.dll
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\obj\Debug\netcoreapp3.1\Experimento1.pdb
+C:\Users\Carlos Marques\source\Antiga\Experimento1\Experimento1\obj\Debug\netcoreapp3.1\Experimento1.genruntimeconfig.cache
